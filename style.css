@@ -24,6 +24,7 @@ body {
 
   background: url('/images/bg-pattern-top-desktop.svg') left top no-repeat,
     url('/images/bg-pattern-bottom-desktop.svg') right bottom no-repeat;
+  height: 100vh;
 }
 
 main {
