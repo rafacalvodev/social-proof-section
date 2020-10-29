@@ -1,2 +1,3 @@
-# social-proof-section
-Challenge taken (again lol) from Frontend Mentor
+# Social Proof Section
+
+Challenge taken from [Frontend Mentor](https://www.frontendmentor.io)
